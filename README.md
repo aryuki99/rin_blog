@@ -1,4 +1,4 @@
-# Rin2
+# Rin3
 
 English | [简体中文](./README_zh_CN.md)
 
